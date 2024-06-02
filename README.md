@@ -25,7 +25,6 @@ This is a MERN stack project for managing book listings. Follow the instructions
 ` npm install `
 ` npm run dev `
 
-contact
 You can reach out on twitter - @vinagsv
 
 
