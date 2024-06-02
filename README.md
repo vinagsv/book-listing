@@ -15,9 +15,10 @@ This is a MERN stack project for managing book listings. Follow the instructions
 1. Navigate to the server directory:
 
 ` cd path/to/server `
-` nodemon seed.js ` \\ run only once to seed admin user
 ` npm install `
 ` nodemon index.js `
+
+` nodemon seed.js `  run only once to seed admin user
 
 ### Client Setup
 ` cd path/to/frontend `
